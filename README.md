@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dedipya Goswami</h1>
 <h3 align="center">Software Engineer — Selegic</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dedipya-selegic&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
