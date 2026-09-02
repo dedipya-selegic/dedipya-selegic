@@ -22,7 +22,7 @@
 ---
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
-<h3 align="left">⚙️ Languages and Tools:</h3>
+
 
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>&nbsp;&nbsp;
