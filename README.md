@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Encye**  
 - 📫 Reach me at **dedipya@selegic.com**
-- You can also call me at +91-9832994010 if anyday this mail ID is discontinued . 
+- You can also call me at +91-9832994010 if someday this mail ID is discontinued.
 
 ---
 
@@ -23,7 +23,6 @@
 ---
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
-
 
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>&nbsp;&nbsp;
@@ -47,7 +46,24 @@
   <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
 </p>
 
-
 ---
 
 <h3 align="center">"Just trying to automate life — one script at a time."</h3>
+
+---
+
+## A Note from Dedipya
+
+My time at Selegic gave me the opportunity to work on some genuinely interesting problems across backend systems, AI, and developer tooling.
+
+I contributed to projects including **Selegic CPQ AI**, **Encye Backend**, **Encye AI**, **RAG-based knowledge systems**, and **Agentic Article Creation**.
+
+A lot of my work involved building, debugging, experimenting with AI workflows, connecting systems together, and figuring things out when the solution was not obvious.
+
+More than the individual features, I’m taking away the experience of building real products, working through production problems, and seeing ideas evolve into systems people can actually use.
+
+To everyone I worked with along the way, thank you for the discussions, reviews, debugging sessions, and all the learning.
+
+On to the next chapter. 🚀
+
+— Dedipya Goswami
