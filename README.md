@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on **Encye**  
 - 📫 Reach me at **dedipya@selegic.com**
+- You can also call me at +91-9832994010 if anyday this mail ID is discontinued . 
 
 ---
 
